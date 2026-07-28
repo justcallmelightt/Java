@@ -1,4 +1,5 @@
-# ☕ Java Programming
+# <img src="assets/JAVA.png" height="20px" valign="middle"> 프로그래밍 자바
+
 
 > **미림마이스터고등학교 뉴미디어소프트웨어과 1학년**
 > * **과목명**: 프로그래밍 자바 기초 (1학기) / 프로그래밍 자바 실무 (2학기) | 전문교과, 5학점
