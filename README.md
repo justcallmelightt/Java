@@ -1,4 +1,4 @@
-# <img src="assets/JAVA.png" height="20px" valign="middle"> 프로그래밍 자바
+# <img src="assets/JAVA.png" height="20px" valign="middle"> JAVA
 
 
 > **미림마이스터고등학교 뉴미디어소프트웨어과 1학년**
