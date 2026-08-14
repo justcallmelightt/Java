@@ -1,6 +1,3 @@
-// AccessModifierDemo.java
-// 주제: 접근 제어자 - public, private, default, protected
-
 class Employee {
     public String department = "미배정";
     private String name;
